@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "https://nperez9.github.io/nperez.io/static/js/main.519a0db7.chunk.js",
-    "main.js.map": "https://nperez9.github.io/nperez.io/static/js/main.519a0db7.chunk.js.map",
+    "main.js": "https://nperez9.github.io/nperez.io/static/js/main.bebdf2bb.chunk.js",
+    "main.js.map": "https://nperez9.github.io/nperez.io/static/js/main.bebdf2bb.chunk.js.map",
     "runtime-main.js": "https://nperez9.github.io/nperez.io/static/js/runtime-main.4c63ccc2.js",
     "runtime-main.js.map": "https://nperez9.github.io/nperez.io/static/js/runtime-main.4c63ccc2.js.map",
-    "static/js/2.e216d895.chunk.js": "https://nperez9.github.io/nperez.io/static/js/2.e216d895.chunk.js",
-    "static/js/2.e216d895.chunk.js.map": "https://nperez9.github.io/nperez.io/static/js/2.e216d895.chunk.js.map",
+    "static/js/2.bf262300.chunk.js": "https://nperez9.github.io/nperez.io/static/js/2.bf262300.chunk.js",
+    "static/js/2.bf262300.chunk.js.map": "https://nperez9.github.io/nperez.io/static/js/2.bf262300.chunk.js.map",
     "index.html": "https://nperez9.github.io/nperez.io/index.html",
-    "precache-manifest.c20c9ba8adccdb21aa00119e1473c907.js": "https://nperez9.github.io/nperez.io/precache-manifest.c20c9ba8adccdb21aa00119e1473c907.js",
+    "precache-manifest.535e98a39025ce52fe2f61fe9a9783cf.js": "https://nperez9.github.io/nperez.io/precache-manifest.535e98a39025ce52fe2f61fe9a9783cf.js",
     "service-worker.js": "https://nperez9.github.io/nperez.io/service-worker.js",
-    "static/js/2.e216d895.chunk.js.LICENSE.txt": "https://nperez9.github.io/nperez.io/static/js/2.e216d895.chunk.js.LICENSE.txt"
+    "static/js/2.bf262300.chunk.js.LICENSE.txt": "https://nperez9.github.io/nperez.io/static/js/2.bf262300.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.4c63ccc2.js",
-    "static/js/2.e216d895.chunk.js",
-    "static/js/main.519a0db7.chunk.js"
+    "static/js/2.bf262300.chunk.js",
+    "static/js/main.bebdf2bb.chunk.js"
   ]
 }
