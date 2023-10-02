@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.d55a8117.chunk.css",
-    "main.js": "/static/js/main.1219661f.chunk.js",
-    "main.js.map": "/static/js/main.1219661f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a14f218.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a14f218.js.map",
-    "static/js/2.8be3ba52.chunk.js": "/static/js/2.8be3ba52.chunk.js",
-    "static/js/2.8be3ba52.chunk.js.map": "/static/js/2.8be3ba52.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b873f6e1d7bcad850f86d5dccc357af9.js": "/precache-manifest.b873f6e1d7bcad850f86d5dccc357af9.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.d55a8117.chunk.css.map": "/static/css/main.d55a8117.chunk.css.map",
-    "static/js/2.8be3ba52.chunk.js.LICENSE.txt": "/static/js/2.8be3ba52.chunk.js.LICENSE.txt"
+    "main.css": "https://nperez9.github.io/nperez.io/static/css/main.d55a8117.chunk.css",
+    "main.js": "https://nperez9.github.io/nperez.io/static/js/main.93de32a0.chunk.js",
+    "main.js.map": "https://nperez9.github.io/nperez.io/static/js/main.93de32a0.chunk.js.map",
+    "runtime-main.js": "https://nperez9.github.io/nperez.io/static/js/runtime-main.4c63ccc2.js",
+    "runtime-main.js.map": "https://nperez9.github.io/nperez.io/static/js/runtime-main.4c63ccc2.js.map",
+    "static/js/2.8be3ba52.chunk.js": "https://nperez9.github.io/nperez.io/static/js/2.8be3ba52.chunk.js",
+    "static/js/2.8be3ba52.chunk.js.map": "https://nperez9.github.io/nperez.io/static/js/2.8be3ba52.chunk.js.map",
+    "index.html": "https://nperez9.github.io/nperez.io/index.html",
+    "precache-manifest.a1e0551854f31e3a9172a0ddb43ded93.js": "https://nperez9.github.io/nperez.io/precache-manifest.a1e0551854f31e3a9172a0ddb43ded93.js",
+    "service-worker.js": "https://nperez9.github.io/nperez.io/service-worker.js",
+    "static/css/main.d55a8117.chunk.css.map": "https://nperez9.github.io/nperez.io/static/css/main.d55a8117.chunk.css.map",
+    "static/js/2.8be3ba52.chunk.js.LICENSE.txt": "https://nperez9.github.io/nperez.io/static/js/2.8be3ba52.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a14f218.js",
+    "static/js/runtime-main.4c63ccc2.js",
     "static/js/2.8be3ba52.chunk.js",
     "static/css/main.d55a8117.chunk.css",
-    "static/js/main.1219661f.chunk.js"
+    "static/js/main.93de32a0.chunk.js"
   ]
 }
